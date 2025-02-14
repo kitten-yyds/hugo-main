@@ -7,3 +7,8 @@ math: true
 ---
 
 Hello world
+
+```python
+#!/usr/bin/python3
+print("Hello, World!");
+```
