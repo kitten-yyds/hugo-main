@@ -32,3 +32,11 @@ $$life=\int_{born}^{died} study(t)·dt$$
 
 ## Picture test
 ![蔚蓝档案最终章](background.jpg)
+
+## List test
+1. First item
+2. Second item
+3. Third item
+   1. Indented item
+   2. Indented item
+4. Fourth item
