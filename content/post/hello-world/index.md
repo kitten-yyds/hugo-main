@@ -6,9 +6,13 @@ description: A testing
 math: true
 ---
 
-Hello world
+Hello world with python
 
 ```python
 #!/usr/bin/python3
 print("Hello, World!");
 ```
+
+Latex test
+
+$$life=\int_{born}^{died} study(t)·dt
