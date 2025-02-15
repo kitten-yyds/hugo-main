@@ -48,7 +48,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
+# e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2025
@@ -218,6 +219,12 @@ menu:
           url: https://github.com/kitten-yyds
           params:
               icon: brand-github
+
+        - identifier: oshwhub
+          name: Oshwhub
+          url: https://oshwhub.com/kitten_yyds/works
+          params:
+              icon: brand-oshwhub
 
 related:
     includeNewer: true
