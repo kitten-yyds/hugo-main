@@ -1,8 +1,8 @@
 ---
 author: kitten-yyds
-title: Hello world
+title: Testing page
 date: 2025-02-14
-description: A testing
+description: markdown testing page
 math: true
 ---
 
