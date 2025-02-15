@@ -8,7 +8,11 @@ links:
   - title: Oshwhub
     description: Oshwhub是嘉立创电路板开源平台
     website: https://oshwhub.com/
-    image: ts-logo-128.jpg
+    image: oshwhub.png
+  - title: Bilibili
+    description: 大名鼎鼎的B站
+    website: https://bilibili.com/
+    image: bilibili.png
 menu:
     main: 
         weight: -50
