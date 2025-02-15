@@ -16,6 +16,14 @@
             cover: home+ 'music/Memories of Kindness.png',
             lrc: home+ 'music/Memories of Kindness.lrc',
         }]
-        //fixed: true
+        fixed: true
     });
 </script>
+
+<style>
+    body {
+      background: url({{ (resources.Get "background/background.jpg").Permalink }}) no-repeat center top;
+      background-size: cover;
+      background-attachment: fixed;
+    }
+</style>
