@@ -6,7 +6,7 @@
     const home= {{ .Site.Home.Permalink }};
     console.log(home);
     const ap = new APlayer({
-        container: document.getElementById('aplayer');
+        container: document.getElementById('aplayer'),
         lrcType: 3,
         audio: [{
             // 本地路径引入写法（有子目录就在staticDir后面继续拼接）
@@ -16,6 +16,6 @@
             cover: home+ 'music/Memories of Kindness.png',
             lrc: home+ 'music/Memories of Kindness.lrc',
         }]
-        fixed: true
-});
+        //fixed: true
+    });
 </script>
