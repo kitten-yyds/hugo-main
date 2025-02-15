@@ -31,4 +31,4 @@ print("Hello, World!");
 $$life=\int_{born}^{died} study(t)·dt$$
 
 ## Picture test
-![蔚蓝档案](background.jpg "蔚蓝档案")
+![蔚蓝档案](background.jpg)
