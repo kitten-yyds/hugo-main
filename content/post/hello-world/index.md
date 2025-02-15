@@ -6,13 +6,29 @@ description: A testing
 math: true
 ---
 
-Hello world with python
+# Testing Page
+## Code test
+c++
+```C++
+#include <iostream>
+using namespace std;
 
+int main(){
+    cout << "Hello world" << endl;
+    return(0);
+}
+```
+
+python
 ```python
 #!/usr/bin/python3
 print("Hello, World!");
 ```
 
-Latex test
 
+
+## Latex test
 $$life=\int_{born}^{died} study(t)·dt$$
+
+## Picture test
+![蔚蓝档案](./background.jpg "蔚蓝档案")
