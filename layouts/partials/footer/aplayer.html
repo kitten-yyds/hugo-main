@@ -5,17 +5,17 @@
 <script>
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
-    const staticDir = {{ .Site.Home.Permalink }}
-    console.log(staticDir);
+    const home= {{ .Site.Home.Permalink }}
+    console.log(home)
     lrcType: 3,
     audio: [
       {
         // 本地路径引入写法（有子目录就在staticDir后面继续拼接）
         name: 'Memories of Kindness',
         artist: '鹿乃',
-        url: staticDir + 'music/Memories of Kindness.mp3',
-        cover: staticDir + 'music/Memories of Kindness.png',
-        lrc: staticDir + 'music/Memories of Kindness.lrc',
+        url: home+ 'music/Memories of Kindness.mp3',
+        cover: home+ 'music/Memories of Kindness.png',
+        lrc: home+ 'music/Memories of Kindness.lrc',
       }
     ]
     fixed: true
