@@ -31,8 +31,8 @@ print("Hello, World!");
 $$life=\int_{born}^{died} study(t)·dt$$
 
 ## Picture test
-!(background1.jpg)
-!(background2.jpg)
+![](background1.jpg)
+![](background2.jpg)
 
 ## List test
 1. First item
