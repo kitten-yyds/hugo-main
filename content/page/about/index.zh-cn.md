@@ -7,4 +7,4 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+欢迎来到kitten-yyds的网站，用于分享笔记以及发布项目
