@@ -1,8 +1,8 @@
 ---
-title: 链接
+title: 常用链接
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: GitHub是世界上最大的软件托管平台
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: Oshwhub
@@ -10,9 +10,13 @@ links:
     website: https://oshwhub.com/
     image: oshwhub.png
   - title: Bilibili
-    description: 大名鼎鼎的B站
+    description: 传说中的B站
     website: https://bilibili.com/
     image: bilibili.png
+  - title: Markdown
+    description: 一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档
+    website: https://markdown.com.cn/
+    image: markdown.png
 menu:
     main: 
         weight: -50
