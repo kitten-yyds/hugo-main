@@ -15,4 +15,4 @@ print("Hello, World!");
 
 Latex test
 
-$$life=\int_{born}^{died} study(t)·dt
+$$life=\int_{born}^{died} study(t)·dt$$
